@@ -74,7 +74,7 @@ npm run dev
 
 ### 3. Demo Login Credentials
 - **Voter Account**: `voter1@voting.local` (Voter ID: `VOTER001`) / Password: `Voter123!`
-- **Super Admin Account**: `admin@voting.local` / Password: `SuperAdmin@123`
+
 
 ---
 
